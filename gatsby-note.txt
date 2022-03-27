@@ -1,0 +1,25 @@
+Gatsby
+
+
+
+Gatsby는 무엇? 
+ => React 	기반의 정적 사이트 생성기
+     Graphql 사용
+
+
+참고용 블로그 : https://mnxmnz.github.io/gatsby/what-is-gatsby/
+
+
+Gatsby로 블로그 만드는 방법
+
+1.  직접 구현
+2. 스타터 템플릿 활용
+3. Gatsby 	테마 사용
+
+
+Gatsby로 블로그 만들기 위해 기본적으로 설치해야할 것
+
+1. Git
+2. Node
+3. npm
+3. VS Code
