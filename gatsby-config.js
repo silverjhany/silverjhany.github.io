@@ -3,10 +3,10 @@ module.exports = {
     title: `Hany, Blog`,
     author: {
       name: `hanyJ`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      summary: ``,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://silverjhany.gatsbyjs.io/`,
+    siteUrl: `https://silverjhany.github.io/`,
     social: {
       github: `silverjhany`,
     },
